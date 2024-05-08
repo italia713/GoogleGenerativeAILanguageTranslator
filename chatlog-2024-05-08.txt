@@ -1,0 +1,8 @@
+You: Translate this to Chinese: hello how are you!
+ 
+AI: 你好，你好吗！ 
+
+You: Translate this to Chinese: my name is Italia how are you today!
+ 
+AI: 我叫意大利，您今天好！ 
+
