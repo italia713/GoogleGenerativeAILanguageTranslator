@@ -20,8 +20,6 @@ CHALLENGES AND FUTURE FEATURES
 * Managing audio playback efficiently with pygame.
 * Handling exceptions gracefully for smoother user experience.
 
-
-HOW TO INSTALL
 *******
 PREREQUISITES
 Python 
