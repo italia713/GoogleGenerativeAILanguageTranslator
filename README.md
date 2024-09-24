@@ -22,18 +22,17 @@ CHALLENGES AND FUTURE FEATURES
 
 *******
 
-Required Libraries
-You can add the following dependencies in your requirements.txt file:
-google-generativeai
-pygame
-gTTS
-SpeechRecognition
-Setting up the Google Gemini API
-Get your Google Gemini AI API key.
-Configure your API key by adding it to the environment variables or directly in the code.
-Python
+Required:
+* google-generativeai
+* pygame
+* gTTS
+* SpeechRecognition
+* Setting up the Google Gemini API
+* Get your Google Gemini AI API key.
+* Configure your API key by adding it to the environment variables or directly in the code.
+* Python
 
-genai.configure(api_key="your-own-google-ai-api-key")
+*genai.configure(api_key="your-own-google-ai-api-key")
 
 HOW TO USE THE PROJECT:
 * Make sure your microphone is connected and working.
