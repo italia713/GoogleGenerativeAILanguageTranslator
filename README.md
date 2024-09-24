@@ -21,8 +21,6 @@ CHALLENGES AND FUTURE FEATURES
 * Handling exceptions gracefully for smoother user experience.
 
 *******
-PREREQUISITES
-Python 
 
 Required Libraries
 You can add the following dependencies in your requirements.txt file:
